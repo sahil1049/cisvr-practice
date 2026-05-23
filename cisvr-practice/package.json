@@ -2,6 +2,7 @@
   "name": "cisvr-practice",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -12,6 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+    "homepage": "https://sahil1049.github.io/cisvr-practice",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -36,8 +38,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://sahil1049.github.io/cisvr-practice"
+    ]
+  
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
