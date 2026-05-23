@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { ALL_QUESTIONS } from "./questions";
 
-const PASSWORD = "cisvr2025"; // 🔑 Change this to your preferred password
+const PASSWORD = "cisvr2026@_"; // 🔑 Change this to your preferred password
 const MODES = { HOME: "home", EXAM: "exam" };
 
 function shuffle(arr) {
